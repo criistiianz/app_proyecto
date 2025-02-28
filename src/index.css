@@ -1,0 +1,22 @@
+aside{
+  width: 400px;
+  min-height: 100vh;
+  background-color: #211474;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header{
+height:  200px;
+background-color: #386292;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+position: absolute;
+top: 9px;
+right: 0;
+width: 1238px;
+}
