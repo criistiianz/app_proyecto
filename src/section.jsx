@@ -1,8 +1,10 @@
-function Section(){
+const Section = () => {
     return(
-        <header>
-            <h1>section</h1>
-        </header>
-    );
+        <section>
+            <h1>Section</h1>
+        </section>
+    )
+
 }
+
 export default Section;
